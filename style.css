@@ -36,11 +36,12 @@ h1{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-img{
+img {
     height: 190px;
     width: 190px;
     object-fit: cover;
     border-radius: 20%;
+    border: 2px solid aqua;
 }
 
 .scorecard{
