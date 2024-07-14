@@ -18,16 +18,16 @@ h1{
     align-items: center;
     gap: 3rem;
 }
-.choice{
+.choice {
     height: 200px;
     width: 200px;
     border-radius: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    border: 2px solid aqua;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-
 .choice:hover {
     opacity: 0.8;
     cursor: pointer;
