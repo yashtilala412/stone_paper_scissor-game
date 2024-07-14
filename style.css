@@ -115,3 +115,6 @@ button:hover {
     background-color: aqua;
     color: black;
 }
+h1, #msg {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
