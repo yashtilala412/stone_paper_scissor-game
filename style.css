@@ -10,14 +10,15 @@ h1{
     height: 5rem;
     line-height: 2rem;
 }
-.choices{
+.choices {
     margin-top: 100px;
     display: flex;
-    gap: 5;
+    gap: 3rem;
     justify-content: center;
     align-items: center;
-    gap: 3rem;
+    flex-wrap: wrap;
 }
+
 .choice {
     height: 200px;
     width: 200px;
