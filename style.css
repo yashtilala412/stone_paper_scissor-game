@@ -28,11 +28,14 @@ h1{
     
 }
 
-.choice:hover{
+.choice:hover {
     opacity: 0.8;
     cursor: pointer;
     background-color: black;
+    transition: background-color 0.3s ease, opacity 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
+
 img{
     height: 190px;
     width: 190px;
