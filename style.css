@@ -45,14 +45,16 @@ img {
     border: 2px solid aqua;
 }
 
-.scorecard{
+.scorecard {
     display: flex;
     justify-content: center;
     font-size: 3rem;
-    gap :  5rem;
+    gap: 5rem;
     margin-top: 50px;
-    
+    color: aqua;
+    font-family: 'Arial', sans-serif;
 }
+
 
 .info-score{
     margin-left: 30px;
