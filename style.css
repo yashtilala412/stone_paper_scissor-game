@@ -53,8 +53,11 @@ img {
 }
 
 
-.info-score{
+.info-score {
     margin-left: 30px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 0.5rem;
 }
 
 .msg-container{
